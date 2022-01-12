@@ -10,6 +10,8 @@ namespace ConsoleApp11d
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World)");
+
         }
     }
 }
